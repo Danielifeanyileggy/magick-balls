@@ -1,0 +1,15 @@
+@media(max-width:450px){
+
+  div{
+    padding: 10px;
+    gap: 20px;
+  }
+  span{
+    width: 40px;
+    height: 40px;
+    padding: 5px;
+
+  }
+
+
+}
